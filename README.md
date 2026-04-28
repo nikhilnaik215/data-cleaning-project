@@ -1,44 +1,62 @@
-# 🧼 Student Data Cleaning Project
+# 🚀 Student Data Cleaning Project
 
 <p align="center">
-  <b>Cleaning messy data using Pandas 🚀</b>
+  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
+</p>
+
+<p align="center">
+  <b>Turning messy data into clean & useful data using Pandas ✨</b>
 </p>
 
 ---
 
-## 📌 Project Overview
-This project demonstrates how raw student data can be cleaned and prepared using **Python (Pandas)**.  
-The dataset contained missing values, inconsistent formats, and duplicate records which were handled step by step.
+## 🎯 What is this project?
+This project shows how raw student data can be cleaned step-by-step using **Python & Pandas**.
 
 ---
 
-## 🧹 Data Cleaning Steps
+## ⚡ What I did
 
-✔ **Duplicate Removal**  
-Removed repeated rows to maintain data integrity  
-
-✔ **Handling Missing Values**  
-- Filled numeric columns using mean  
-- Filled categorical columns using mode  
-
-✔ **Text Cleaning**  
-- Removed unwanted spaces and symbols  
-- Standardized text values  
-
-✔ **Data Standardization**  
-- Converted inconsistent values (Y/N → Yes/No)  
-- Cleaned phone numbers to numeric format  
-
-✔ **Filtering Data**  
-- Removed rows with critical missing values  
+✨ Removed duplicate rows  
+✨ Handled missing values smartly  
+✨ Cleaned text columns  
+✨ Standardized data formats  
+✨ Generated a clean final dataset  
 
 ---
 
-## 📊 Workflow
+## 🔄 Workflow
 
-```mermaid
-graph LR
-A[Raw Data] --> B[Check Missing Values]
-B --> C[Clean Data]
-C --> D[Remove Duplicates]
-D --> E[Save Clean Data]
+➡️ Raw Data  
+⬇️  
+➡️ Check Missing Values  
+⬇️  
+➡️ Clean Data  
+⬇️  
+➡️ Remove Duplicates  
+⬇️  
+➡️ Save Clean Data  
+
+---
+
+## 🧰 Tools Used
+
+🔹 Python  
+🔹 Pandas  
+🔹 Jupyter Notebook  
+
+---
+
+## 📁 Project Files
+
+📄 `student_dataset_v1.csv` → Raw data  
+📄 `cleaned_student_dataset.csv` → Final output  
+📄 `student_dataset_cleaning.ipynb` → Code  
+
+---
+
+## 📊 Output
+
+✅ Clean dataset ready for analysis  
+
+---

@@ -1,27 +1,27 @@
 # 🚀 Student Data Cleaning Project
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="100"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="120"/>
 </p>
 
 <p align="center">
-  <b>Turning messy data into clean & useful data using Pandas ✨</b>
+  <b>Cleaning messy data using Pandas in Jupyter Notebook ✨</b>
 </p>
 
 ---
 
-## 🎯 What is this project?
-This project shows how raw student data can be cleaned step-by-step using **Python & Pandas**.
+## 🎯 Project Overview
+This project demonstrates how to clean a student dataset using **Python (Pandas)** in **Jupyter Notebook**.
 
 ---
 
-## ⚡ What I did
-
-✨ Removed duplicate rows  
-✨ Handled missing values smartly  
-✨ Cleaned text columns  
-✨ Standardized data formats  
-✨ Generated a clean final dataset  
+## ⚡ What I Did
+✔ Removed duplicate rows  
+✔ Handled missing values  
+✔ Cleaned text data  
+✔ Standardized values  
+✔ Saved cleaned dataset  
 
 ---
 
@@ -39,24 +39,25 @@ This project shows how raw student data can be cleaned step-by-step using **Pyth
 
 ---
 
-## 🧰 Tools Used
+## 🛠 Tools Used
 
-🔹 Python  
-🔹 Pandas  
-🔹 Jupyter Notebook  
+| Tool | Purpose |
+|------|--------|
+| 🐍 Python | Programming |
+| 🐼 Pandas | Data Cleaning |
+| 📓 Jupyter Notebook | Execution |
 
 ---
 
-## 📁 Project Files
+## 📁 Files
 
-📄 `student_dataset_v1.csv` → Raw data  
-📄 `cleaned_student_dataset.csv` → Final output  
-📄 `student_dataset_cleaning.ipynb` → Code  
+- `student_dataset_v1.csv`  
+- `cleaned_student_dataset.csv`  
+- `student_dataset_cleaning.ipynb`  
 
 ---
 
 ## 📊 Output
+Cleaned dataset:  
+`cleaned_student_dataset.csv`
 
-✅ Clean dataset ready for analysis  
-
----
